@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ShiroAzuma
+- 👀 I’m interested in BlockChain
+- 🌱 I’m currently learning Rust
+- 📫 How to reach me iorinotears@gmail.com
